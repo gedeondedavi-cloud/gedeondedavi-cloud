@@ -49,6 +49,14 @@ The project includes Liquid theme customization, storefront components and respo
 
 Live website: https://legrandrayonfr.com
 
+### My Ritual Lab
+
+Shopify store where I worked on the theme and front-end development.
+
+The project includes Shopify theme customization, storefront components and responsive layouts.
+
+Live website: https://myrituallabskincare.com
+
 ## Portfolio
 
 https://good-okra-c56.notion.site/Dedavi-Jedeon-Web-Developer-EN-3e8764753d68815f9cc9e7bbcf7394e3
