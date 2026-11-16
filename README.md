@@ -25,6 +25,14 @@ The project includes custom Liquid sections, product components, responsive layo
 
 Live website: https://etiket-france.com
 
+### By Harper Clothing
+
+Shopify store where I worked on the theme and front-end development.
+
+The project includes custom Liquid sections, product cards, color swatches, cart features, FAQ, reviews, looks, brand sections and responsive layouts.
+
+Live website: https://byharperclothing.com
+
 ## Portfolio
 
 https://good-okra-c56.notion.site/Dedavi-Jedeon-Web-Developer-EN-3e8764753d68815f9cc9e7bbcf7394e3
