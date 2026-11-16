@@ -57,6 +57,14 @@ The project includes Shopify theme customization, storefront components and resp
 
 Live website: https://myrituallabskincare.com
 
+### Nocturne Parfums
+
+Shopify storefront where I worked on the front end and theme customization.
+
+The project includes Liquid development, storefront components and responsive layouts.
+
+Live website: https://nocturneparfums.com
+
 ## Portfolio
 
 https://good-okra-c56.notion.site/Dedavi-Jedeon-Web-Developer-EN-3e8764753d68815f9cc9e7bbcf7394e3
