@@ -41,6 +41,14 @@ I worked on custom Liquid sections for the homepage, buying guide, product recom
 
 Live website: https://boulesdepetanque-fr.com
 
+### Le Grand Rayon
+
+Shopify store where I worked on the theme and front-end development.
+
+The project includes Liquid theme customization, storefront components and responsive layouts.
+
+Live website: https://legrandrayonfr.com
+
 ## Portfolio
 
 https://good-okra-c56.notion.site/Dedavi-Jedeon-Web-Developer-EN-3e8764753d68815f9cc9e7bbcf7394e3
