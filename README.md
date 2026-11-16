@@ -33,6 +33,14 @@ The project includes custom Liquid sections, product cards, color swatches, cart
 
 Live website: https://byharperclothing.com
 
+### Boules de Pétanque
+
+Shopify store based on the Horizon theme where I worked on the front end and theme customization.
+
+I worked on custom Liquid sections for the homepage, buying guide, product recommendations, customer reviews, brand content and other parts of the storefront.
+
+Live website: https://boulesdepetanque-fr.com
+
 ## Portfolio
 
 https://good-okra-c56.notion.site/Dedavi-Jedeon-Web-Developer-EN-3e8764753d68815f9cc9e7bbcf7394e3
