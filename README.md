@@ -1,41 +1,34 @@
-# Hi, I'm Jedeon Dedavi 👋
+# Jedeon Dedavi
 
 ## Front-End Developer | Liquid | JavaScript | HTML | CSS
 
-I build responsive, user-focused e-commerce interfaces with a strong focus on Shopify storefront development.
+I'm a Front-End Developer with experience building and customizing Shopify stores.
 
-My work includes custom Liquid sections, theme customization, responsive layouts, product experiences, cart interactions, and front-end improvements using JavaScript, HTML, and CSS.
+I mainly work with Liquid, JavaScript, HTML and CSS. I create custom sections, customize existing themes and work on product pages, navigation, cart features and responsive layouts.
 
-### Tech Stack
+## Skills
 
-- **Liquid** — Shopify themes, reusable sections and storefront components
-- **JavaScript** — interactive UI and e-commerce functionality
-- **HTML5** — semantic and structured interfaces
-- **CSS3** — responsive layouts and custom styling
-- **Shopify** — storefront and theme development
-- **Git & GitHub** — version control and project collaboration
+Liquid  
+JavaScript  
+HTML5  
+CSS3  
+Shopify  
+Git and GitHub
 
-### Featured Project
+## Projects
 
-#### Etiket France — Shopify Storefront
-Custom Shopify storefront work featuring Liquid sections, responsive UI, product components, cart interactions, swatches, and JavaScript-driven storefront functionality.
+### Etiket France
 
-**Live store:** https://etiket-france.com
+Shopify store where I worked on the front end and theme customization.
 
-### What I Work On
+The project includes custom Liquid sections, product components, responsive layouts, color swatches, product pages and cart interactions.
 
-- Shopify theme development and customization
-- Custom Liquid sections and snippets
-- Responsive e-commerce interfaces
-- Product page development
-- JavaScript storefront interactions
-- Cart and product UI components
-- Front-end performance and UX improvements
+Live website: https://etiket-france.com
 
-### Portfolio
+## Portfolio
 
 https://good-okra-c56.notion.site/Dedavi-Jedeon-Web-Developer-EN-3e8764753d68815f9cc9e7bbcf7394e3
 
-### Open to Opportunities
+## Contact
 
-I'm open to remote **Front-End Developer** and **Shopify Front-End Developer** opportunities, including freelance collaborations and full-time roles.
+I'm currently open to remote Front-End Developer opportunities, Shopify projects and freelance collaborations.
